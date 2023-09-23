@@ -43,10 +43,6 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by: ALFRED A B
 RegisterNumber: 212222110002
 
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: Safeeq Fazil.A
-RegisterNumber:  212222240086
-
 module program(A,B,C,D,f1);
 input A,B,C,D;
 output f1;
